@@ -30,6 +30,23 @@ In this project, you can build your own C++ application or extend this Snake gam
 3. Compile: `cmake .. && make`
 4. Run it: `./SnakeGame`.
 
+## Rubric points achieved:
+
+* Loops, Functions, I/O
+ * The project uses functions and control structures
+ * The project accepts user input and processes it
+ * The project shows the speed of the snake in the window header
+
+* Object Oriented Programming
+ * The project uses Object Oriented Programming techniques
+ * The project specifies members as public or private
+ * The project documents all class functions
+ * The project contains overloaded and override functions
+
+* Memory Management
+ * The project uses smart pointers instead of raw pointers
+ * The project makes use of references in function declarations
+ * The project uses destructors appropriately
 
 ## CC Attribution-ShareAlike 4.0 International
 
