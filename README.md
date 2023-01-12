@@ -32,18 +32,18 @@ In this project, you can build your own C++ application or extend this Snake gam
 
 ## Rubric points achieved:
 
-* Loops, Functions, I/O
+1. Loops, Functions, I/O
  * The project uses functions and control structures
  * The project accepts user input and processes it
  * The project shows the speed of the snake in the window header
 
-* Object Oriented Programming
+2. Object Oriented Programming
  * The project uses Object Oriented Programming techniques
  * The project specifies members as public or private
  * The project documents all class functions
  * The project contains overloaded and override functions
 
-* Memory Management
+3. Memory Management
  * The project uses smart pointers instead of raw pointers
  * The project makes use of references in function declarations
  * The project uses destructors appropriately
